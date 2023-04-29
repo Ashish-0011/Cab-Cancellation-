@@ -1,4 +1,4 @@
-# Cab-Cancellation-
+# Cab-Cancellation
 Cab Cancellation ML Prediction Problem
 
 The business problem tackled here is trying to improve customer service for YourCabs.com, a cab company in Bangalore.
